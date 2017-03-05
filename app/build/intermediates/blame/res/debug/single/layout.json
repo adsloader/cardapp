@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/snake/AndroidStudioProjects/cardapp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/snake/AndroidStudioProjects/LayoutTest-master1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/snake/AndroidStudioProjects/LayoutTest-master1/app/src/main/res/layout/activity_main.xml"
+    }
+]

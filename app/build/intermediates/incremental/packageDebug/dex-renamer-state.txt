@@ -1,0 +1,7 @@
+#Sun Mar 05 23:56:46 KST 2017
+base.0=/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_25e0f3f0e8ba0e9ac535638d4bcfe830faf998f9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5aafa2bc9f0246c467b44345e22cd8384c61976c/classes.dex
+base.1=/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5aafa2bc9f0246c467b44345e22cd8384c61976c
+file.0=/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_25e0f3f0e8ba0e9ac535638d4bcfe830faf998f9/classes.dex

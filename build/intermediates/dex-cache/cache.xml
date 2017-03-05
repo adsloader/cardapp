@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/snake/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c5d8f260b0209cc0a719baf6ded74f41c254da84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5aafa2bc9f0246c467b44345e22cd8384c61976c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed1793c39cdfa2232bba99a9b3f12d9605181987">
+        <dex dex="/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_25e0f3f0e8ba0e9ac535638d4bcfe830faf998f9/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/snake/AndroidStudioProjects/LayoutTest-master1/app/build/intermediates/res/merged/debug/drawable/angel.jpg",
+        "source": "/home/snake/AndroidStudioProjects/LayoutTest-master1/app/src/main/res/drawable/angel.jpg"
+    },
+    {
+        "merged": "/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/res/merged/debug/drawable/heart.jpg",
+        "source": "/home/snake/AndroidStudioProjects/cardapp/app/src/main/res/drawable/heart.jpg"
+    },
+    {
+        "merged": "/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/res/merged/debug/drawable/bear.jpg",
+        "source": "/home/snake/AndroidStudioProjects/cardapp/app/src/main/res/drawable/bear.jpg"
+    },
+    {
+        "merged": "/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/res/merged/debug/drawable/angel.jpg",
+        "source": "/home/snake/AndroidStudioProjects/cardapp/app/src/main/res/drawable/angel.jpg"
+    },
+    {
+        "merged": "/home/snake/AndroidStudioProjects/LayoutTest-master1/app/build/intermediates/res/merged/debug/drawable/heart.jpg",
+        "source": "/home/snake/AndroidStudioProjects/LayoutTest-master1/app/src/main/res/drawable/heart.jpg"
+    },
+    {
+        "merged": "/home/snake/AndroidStudioProjects/LayoutTest-master1/app/build/intermediates/res/merged/debug/drawable/bear.jpg",
+        "source": "/home/snake/AndroidStudioProjects/LayoutTest-master1/app/src/main/res/drawable/bear.jpg"
+    }
+]

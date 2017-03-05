@@ -1,0 +1,4 @@
+#Sun Mar 05 23:35:00 KST 2017
+base.0=/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c5d8f260b0209cc0a719baf6ded74f41c254da84
+renamed.0=classes.dex
+file.0=/home/snake/AndroidStudioProjects/cardapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c5d8f260b0209cc0a719baf6ded74f41c254da84/classes.dex

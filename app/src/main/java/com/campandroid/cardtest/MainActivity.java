@@ -106,23 +106,37 @@ public class MainActivity extends Activity {
     	et.setDrawingCacheEnabled(false);
     	et.buildDrawingCache(false);
 
-
+        // 경로명을 만든다.
     	String file_path = Environment.getExternalStorageDirectory().getAbsolutePath() +
     			"/campandroid";
-    	File dir = new File(file_path);
-    	if(!dir.exists())
-    	    dir.mkdirs();
+
+        // 파일객체를 가져오고
+        File dir = new File(file_path);
+
+        // 경로(파일)이 존재하는가?
+        if(!dir.exists())
+    	    dir.mkdirs(); // 없다면 새롭게 생성
+
+        // 경로명에 포함된 test.png이라는 이름의 파일을 생성
     	File file = new File(dir, "test.png");
+
+        // 파일쓰기위한 fOut 객체
     	FileOutputStream fOut;
     	try {
+
+            // 객체생성
     		fOut = new FileOutputStream(file);
-    		b.compress(Bitmap.CompressFormat.PNG, 85, fOut);
-    		fOut.flush();
-    		fOut.close();
+    		// Bitmap을 압축 png 85%로 ...
+            b.compress(Bitmap.CompressFormat.PNG, 85, fOut);
+    		// 파일쓰기
+            fOut.flush();
+    		// 파일닫기
+            fOut.close();
     	} catch (Exception e) {
     		e.printStackTrace();
     	}
-    	
+
+    	// 파일을 넘겨준다.
     	return file;
     }
 
